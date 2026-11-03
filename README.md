@@ -85,4 +85,8 @@
   <img src="https://streak-stats.demolab.com?user=aimanzaizilan&theme=github-dark-blue&hide_border=true&background=0d1117&ring=1F6FEB&fire=1F6FEB&currStreakLabel=1F6FEB" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aimanzaizilan/aimanzaizilan/output/github-snake-dark.svg" />
+</p>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:0d1117&height=100&section=footer" />
